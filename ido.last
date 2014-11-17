@@ -2,31 +2,31 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/Users/poglesbyg/" . ".emacs.d/")
+ ("/Users/poglesbyg/" . "Documents/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/poglesbyg/.emacs.d/"
  "/Users/poglesbyg/Documents/"
+ "/Users/poglesbyg/.emacs.d/"
  "/Users/poglesbyg/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "init.el"
  "daspHomeExam.text"
+ "init.el"
  "daspHomeExam.txt"
  ".bash_profile"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/poglesbyg/.emacs.d/" (21610 3568 0 0) "vendor/" "user.el" "themes/" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "recentf" "README.markdown" "places" "modules/" "init.el" "ido.last" "elpa/" "COPYING" "changelog.md" "backups/" "auto-save-list/" ".smex-items" ".gitignore" ".git/" "../" "./")
+ ("/Users/poglesbyg/Documents/" (21610 5292 0 0) "Microsoft User Data/" "daspHomeExam.text" "CVPaulGrant.pdf" "CVPaulGrant.docx" "CVKB.pdf" "CVBaran.pdf" "CVBaran.docx" "Book/" "BaranPDF.pdf" "Baran.docx" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/poglesbyg/.emacs.d/" (21610 3620 0 0) "vendor/" "user.el" "themes/" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "recentf" "README.markdown" "places" "modules/" "init.el" "ido.last" "elpa/" "COPYING" "changelog.md" "backups/" "auto-save-list/" ".smex-items" ".gitignore" ".git/" "../" "./")
 
  ("/Users/poglesbyg/" (21610 2904 0 0) "user.el" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "quicklisp.lisp.asc" "quicklisp.lisp" "quicklisp/" "Public/" "Pictures/" "node_modules/" "New Unity Project/" "Music/" "Movies/" "Library/" "go/" "Downloads/" "Documents/" "Dev/" "Desktop/" "Applications/" ".zshrc" ".zlogin" ".wapi/" ".viminfo" ".Trash/" ".swipl-dir-history/" ".subversion/" ".ssh/" ".slime/" ".scala_history" ".sbclrc" ".saves/" ".rvm/" ".rnd" ".Rapp.history" ".python_history" ".psql_history" ".profile" ".overtone/" ".npm/" ".node-gyp/" ".meteorsession" ".meteor/" ".m2/" ".local/" ".lein/" ".irssi/" ".hy-history" ".gnupg/" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_profile" ".bash_history" ".android/" "../" "./")
-
- ("/Users/poglesbyg/Documents/" (21609 65262 0 0) "Microsoft User Data/" "daspHomeExam.text" "CVPaulGrant.pdf" "CVPaulGrant.docx" "CVKB.pdf" "CVBaran.pdf" "CVBaran.docx" "Book/" "BaranPDF.pdf" "Baran.docx" ".localized" ".DS_Store" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

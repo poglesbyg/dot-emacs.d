@@ -15,17 +15,18 @@
 ;; ----- ido-work-file-list -----
 (
  "init.el"
+ "daspHomeExam.text"
  "daspHomeExam.txt"
  ".bash_profile"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/poglesbyg/.emacs.d/" (21609 62514 0 0) "vendor/" "user.el" "themes/" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "recentf" "README.markdown" "places" "modules/" "init.el" "ido.last" "elpa/" "COPYING" "changelog.md" "backups/" "auto-save-list/" ".smex-items" ".gitignore" ".git/" "../" "./")
+ ("/Users/poglesbyg/.emacs.d/" (21610 3568 0 0) "vendor/" "user.el" "themes/" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "recentf" "README.markdown" "places" "modules/" "init.el" "ido.last" "elpa/" "COPYING" "changelog.md" "backups/" "auto-save-list/" ".smex-items" ".gitignore" ".git/" "../" "./")
 
- ("/Users/poglesbyg/Documents/" (21579 38146 0 0) "Microsoft User Data/" "CVPaulGrant.pdf" "CVPaulGrant.docx" "CVKB.pdf" "CVBaran.pdf" "CVBaran.docx" "Book/" "BaranPDF.pdf" "Baran.docx" ".localized" ".DS_Store" "../" "./")
+ ("/Users/poglesbyg/" (21610 2904 0 0) "user.el" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "quicklisp.lisp.asc" "quicklisp.lisp" "quicklisp/" "Public/" "Pictures/" "node_modules/" "New Unity Project/" "Music/" "Movies/" "Library/" "go/" "Downloads/" "Documents/" "Dev/" "Desktop/" "Applications/" ".zshrc" ".zlogin" ".wapi/" ".viminfo" ".Trash/" ".swipl-dir-history/" ".subversion/" ".ssh/" ".slime/" ".scala_history" ".sbclrc" ".saves/" ".rvm/" ".rnd" ".Rapp.history" ".python_history" ".psql_history" ".profile" ".overtone/" ".npm/" ".node-gyp/" ".meteorsession" ".meteor/" ".m2/" ".local/" ".lein/" ".irssi/" ".hy-history" ".gnupg/" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_profile" ".bash_history" ".android/" "../" "./")
 
- ("/Users/poglesbyg/" (21609 62129 0 0) "user.el" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "quicklisp.lisp.asc" "quicklisp.lisp" "quicklisp/" "Public/" "Pictures/" "node_modules/" "New Unity Project/" "Music/" "Movies/" "Library/" "go/" "Downloads/" "Documents/" "Dev/" "Desktop/" "Applications/" ".zshrc" ".zlogin" ".wapi/" ".viminfo" ".Trash/" ".swipl-dir-history/" ".subversion/" ".ssh/" ".slime/" ".scala_history" ".sbclrc" ".saves/" ".rvm/" ".rnd" ".python_history" ".psql_history" ".profile" ".overtone/" ".npm/" ".node-gyp/" ".meteorsession" ".meteor/" ".m2/" ".local/" ".lein/" ".irssi/" ".hy-history" ".gnupg/" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_profile" ".bash_history" ".android/" "../" "./")
+ ("/Users/poglesbyg/Documents/" (21609 65262 0 0) "Microsoft User Data/" "daspHomeExam.text" "CVPaulGrant.pdf" "CVPaulGrant.docx" "CVKB.pdf" "CVBaran.pdf" "CVBaran.docx" "Book/" "BaranPDF.pdf" "Baran.docx" ".localized" ".DS_Store" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

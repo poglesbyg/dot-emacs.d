@@ -41,4 +41,25 @@
                   ediprolog)
   "A list of packages to ensure are installed at launch")
 
+(add-to-list 'load-path "~/.emacs.d/elpa/slime-20141116.1533")
+(setq inferior-lisp-program "/usr/local/bin/sbcl --noinform")
+(require 'slime)
+(slime-setup)
+
+(require 'erc)
+(require 'ediprolog)
+(global-set-key [f10] 'prolog-compile-file)
+(setq auto-mode-alist
+      (cons (cons "\\.pl" 'prolog-mode)
+            auto-mode-alist))
+(setq auto-mode-alist
+      (cons (cons "\\.go" 'go-mode)
+            auto-mode-alist))
+(setq auto-mode-alist
+      (cons (cons "\\.hy" 'hy-mode)
+            auto-mode-alist))
+(setq auto-mode-alist
+      (cons (cons "\\.rust" 'rust-mode)
+            auto-mode-alist))
+
 (load "~/.emacs.d/user.el")
